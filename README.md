@@ -5,3 +5,4 @@ Lections: https://yandex.ru/yaintern/algorithm-training_1
     - Task A - ✅
     - Task B - ✅
     - Task C - ✅
+    - Task D - ✅
