@@ -11,3 +11,4 @@ Lections: https://yandex.ru/yaintern/algorithm-training_1
     - Task B - ✅
     - Task C - ✅
     - Task D - ✅
+    - Task E - ✅
